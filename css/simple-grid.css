@@ -319,3 +319,7 @@ p {
   padding: 10px;
   border-radius: 5px;
 }
+
+.carousel-item video {
+  pointer-events: auto;
+}
